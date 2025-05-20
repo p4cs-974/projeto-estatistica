@@ -40,8 +40,11 @@ def item_a(x, y):
     print(f"Variância: {var_x:.4f}")
     print(f"Desvio Padrão: {dp_x:.4f}")
     print(f"Mediana: {mediana_x:.4f}")
+    
+    print("\n--------------------------\n")
 
-    print("\nEstatísticas para Y:")
+
+    print("Estatísticas para Y:")
     print(f"Média: {media_y:.4f}")
     print(f"Variância: {var_y:.4f}")
     print(f"Desvio Padrão: {dp_y:.4f}")
